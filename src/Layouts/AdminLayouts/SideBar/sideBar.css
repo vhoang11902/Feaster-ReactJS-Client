@@ -1,0 +1,25 @@
+.ant-menu-submenu-selected{
+    color: #fff !important;
+  background-color: #E66B63 !important;
+  }
+  .ant-menu-submenu-selected > .ant-menu-submenu-title{
+    color: #fff !important;
+    line-height: 1rem !important;
+
+  }
+  .ant-menu-submenu-open{
+    border-radius: 10px 10px 0 0 !important;
+  }
+  .ant-menu-item-selected{
+    color: #fff !important;
+  background-color: #E66B63 !important;
+  border-radius: 10px !important;
+  }
+
+.ant-menu-item:hover{
+    color: #fff !important;
+  background-color: #E66B63 !important;
+}
+.ant-switch-checked {
+  background-color: #E66B63 !important ;
+}
