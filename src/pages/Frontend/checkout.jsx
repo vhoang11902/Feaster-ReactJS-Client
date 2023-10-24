@@ -175,7 +175,7 @@ function CheckOut() {
           <BreadCrumb routes={routesPayment} />
         </div>
       </div>
-      <div className="mb-6 flex max-lg:block max-lg:block">
+      <div className="mb-6 flex max-lg:block">
         <div className="flex-[70%]  font-semibold mr-8 max-lg:mb-4 ">
           <h2 className="mb-2 text-2xl">Secure Checkout</h2>
           <h2
