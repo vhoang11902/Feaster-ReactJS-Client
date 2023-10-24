@@ -109,7 +109,7 @@ function Cart() {
                   <div className="m-3 pb-4 border-[#eee] flex mx-[-15px] flex-wrap">
                     <div className="flex-[25%] max-w-[75%] px-4">
                       <div className="ml-4 max-h-[149px] max-w-[149px] min-h-[149px] w-full h-full bg-white flex justify-center items-center">
-                        <img src={`http://localhost/feaster/storage/app/public/uploads/product/${item.product.product_image}`}
+                        <img src={`http://localhost/feaster/storage/app/public/products/${item.product.product_image}`}
                         alt=""></img>
                       </div>
                     </div>
