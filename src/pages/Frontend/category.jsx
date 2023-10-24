@@ -98,7 +98,7 @@ function Category() {
               <img
                 alt=""
                 className=""
-                src={`http://localhost/feaster/storage/app/public/uploads/product/${product.product_image}`}
+                src={`http://localhost/feaster/storage/app/public/products/${product.product_image}`}
               />
             </div>
             <div className="pt-7">
