@@ -170,7 +170,7 @@ function Product() {
                 <div className="bg-white w-full h-full min-h-[529px] flex items-center max-lg:min-h-[329px]">
                   <img
                     alt=""
-                    src={`http://localhost/feaster/storage/app/public/uploads/product/${product.product_image}`}
+                    src={`http://localhost/feaster/storage/app/public/products/${product.product_image}`}
                     className="w-full"
                   ></img>
                 </div>
